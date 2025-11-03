@@ -1171,3 +1171,80 @@ ModuleNotFoundError: No module named 'extract'
 [2025-11-03T04:27:23.092+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:27:23.091+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2025-11-03T04:27:23.114+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:27:23.113+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
 [2025-11-03T04:27:23.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.957 seconds
+[2025-11-03T04:27:54.097+0000] {processor.py:161} INFO - Started process (PID=924) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:27:54.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:27:54.103+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:27:54.102+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:27:55.854+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:27:55.911+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:27:55.910+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:27:55.985+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:27:55.985+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:27:56.023+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 1.933 seconds
+[2025-11-03T04:28:27.016+0000] {processor.py:161} INFO - Started process (PID=930) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:27.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:28:27.021+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:27.020+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:27.759+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:27.813+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:27.812+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:28:27.836+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:27.835+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:28:27.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.857 seconds
+[2025-11-03T04:28:58.780+0000] {processor.py:161} INFO - Started process (PID=936) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:58.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:28:58.785+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:58.784+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:59.353+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:28:59.379+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:59.379+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:28:59.401+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:28:59.401+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:28:59.425+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.653 seconds
+[2025-11-03T04:29:29.513+0000] {processor.py:161} INFO - Started process (PID=942) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:29.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:29:29.517+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:29.517+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:27.831+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:27.925+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:27.923+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:29:27.959+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:27.959+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:29:28.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.816 seconds
+[2025-11-03T04:29:58.862+0000] {processor.py:161} INFO - Started process (PID=948) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:58.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:29:58.867+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:58.866+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:59.495+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:29:59.530+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:59.530+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:29:59.559+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:29:59.559+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:29:59.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.950 seconds
+[2025-11-03T04:30:30.625+0000] {processor.py:161} INFO - Started process (PID=954) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:30:30.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:30:30.630+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:30:30.629+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:30:31.439+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:30:31.543+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:30:31.542+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:30:31.657+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:30:31.656+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:30:32.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 1.445 seconds
+[2025-11-03T04:31:02.501+0000] {processor.py:161} INFO - Started process (PID=960) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:02.503+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:31:02.506+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:02.505+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:03.235+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:03.269+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:03.269+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:31:03.293+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:03.293+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:31:03.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.842 seconds
+[2025-11-03T04:31:33.823+0000] {processor.py:161} INFO - Started process (PID=966) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:33.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:31:33.826+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:33.826+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:34.694+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:31:34.760+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:34.760+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:31:34.793+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:31:34.791+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:31:34.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 1.017 seconds
+[2025-11-03T04:32:05.743+0000] {processor.py:161} INFO - Started process (PID=972) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:05.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:32:05.751+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:05.750+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:06.586+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:06.685+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:06.685+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:32:06.759+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:06.759+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:32:06.785+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 1.058 seconds
+[2025-11-03T04:32:37.600+0000] {processor.py:161} INFO - Started process (PID=978) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:37.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:32:37.605+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:37.604+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:38.319+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:32:38.349+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:38.349+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:32:38.373+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:32:38.373+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:32:38.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 0.830 seconds
+[2025-11-03T04:33:09.183+0000] {processor.py:161} INFO - Started process (PID=984) to work on /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:33:09.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/metal_price_dags.py for tasks to queue
+[2025-11-03T04:33:09.189+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:33:09.188+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:33:08.633+0000] {processor.py:840} INFO - DAG(s) 'metal_price_dags' retrieved from /opt/airflow/dags/metal_price_dags.py
+[2025-11-03T04:33:08.738+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:33:08.737+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-11-03T04:33:08.828+0000] {logging_mixin.py:188} INFO - [2025-11-03T04:33:08.828+0000] {dag.py:3954} INFO - Setting next_dagrun for metal_price_dags to 2025-11-03 00:00:00+00:00, run_after=2025-11-03 06:00:00+00:00
+[2025-11-03T04:33:08.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/metal_price_dags.py took 2.113 seconds

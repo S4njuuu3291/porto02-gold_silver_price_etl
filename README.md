@@ -94,14 +94,15 @@ CREATE TABLE metal_prices (
 
 This can easily extend to other assets: crypto, forex, commodities, indices, etc.
 
-## 📸 Screenshot placeholders
+## 📸 Screenshot
 
-| Purpose         | File                      |
-| --------------- | ------------------------- |
-| DAG Graph       | `docs/img/dag_graph.png`  |
-| Task Grid       | `docs/img/task_grid.png`  |
-| Log Sample      | `docs/img/log_sample.png` |
-| DB Data Preview | `docs/img/db_records.png` |
+DAG Graph   
+
+![alt text](image-1.png)
+
+DB Data Preview 
+
+![alt text](image.png)
 
 ## 🚧 Future Upgrades
 
